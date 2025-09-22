@@ -1,11 +1,11 @@
 {
   "app_metadata_description": {
     "description": "Extension description",
-    "message": "Automate web tasks with AI! NanoBrowser is an open-source Chrome extension that lets you extract data, fill forms, and more."
+    "message": "Automate web tasks with AI! JARVIS is an open-source Chrome extension that lets you extract data, fill forms, and more."
   },
   "app_metadata_name": {
     "description": "Extension name",
-    "message": "Nanobrowser: AI Web Agent & Automation"
+    "message": "JARVIS: AI Web Agent & Automation"
   },
   "errors_unknown": {
     "message": "Unknown error occurred"

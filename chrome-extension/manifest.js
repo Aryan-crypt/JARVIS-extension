@@ -6,13 +6,7 @@ const packageJson = JSON.parse(fs.readFileSync('../package.json', 'utf8'));
 const isFirefox = process.env.__FIREFOX__ === 'true';
 const isOpera = process.env.__OPERA__ === 'true';
 
-/**
- * If you want to disable the sidePanel, you can delete withSidePanel function and remove the sidePanel HoC on the manifest declaration.
- *
- * ```js
- * const manifest = { // remove `withSidePanel()`
- * ```
- */
+/**\n * If you want to disable the sidePanel, you can delete withSidePanel function and remove the sidePanel HoC on the manifest declaration.\n *\n * ```js\n * const manifest = { // remove `withSidePanel()`\n * ```\n */
 function withSidePanel(manifest) {
   // Firefox does not support sidePanel
   if (isFirefox) {
@@ -39,7 +33,7 @@ function withOperaSidebar(manifest) {
   return deepmerge(manifest, {
     sidebar_action: {
       default_panel: 'side-panel/index.html',
-      default_title: 'Nanobrowser',
+      default_title: 'JARVIS',
       default_icon: 'icon-32.png',
     },
   });

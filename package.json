@@ -1,11 +1,11 @@
 {
-  "name": "nanobrowser",
+  "name": "jarvis",
   "version": "0.1.12",
-  "description": "AI web automation tool",
+  "description": "JARVIS - AI web automation tool",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nanobrowser/nanobrowser.git"
+    "url": "https://github.com/Aryan-crypt/JARVIS-extension.git"
   },
   "type": "module",
   "scripts": {

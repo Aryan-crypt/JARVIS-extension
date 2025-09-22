@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension",
+  "name": "jarvis-extension",
   "version": "0.1.12",
-  "description": "chrome extension - core settings",
+  "description": "JARVIS - AI web automation tool",
   "type": "module",
   "scripts": {
     "clean:node_modules": "pnpx rimraf node_modules",
