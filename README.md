@@ -6,10 +6,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan-crypt)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aryan_sahani_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NN3ABHggMK)
-[<img src="https://deepwiki.com/badge.svg" height="28" alt="Ask DeepWiki">](https://deepwiki.com/nanobrowser/nanobrowser)
-[![Sponsor](https://img.shields.io/badge/Sponsor-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Aryan-crypt)
 
 </div>
 
@@ -19,9 +15,7 @@ JARVIS is an open-source AI web automation tool that runs in your browser. A fre
 
 ⬇️ Get JARVIS for free
 
-👏 Join the community in [Discord](https://discord.gg/NN3ABHggMK) | [X](https://x.com/aryan_sahani_)
-
-🌟 Loving JARVIS? Give us a star  and help spread the word!
+🌟 Loving JARVIS? Give us a star and help spread the word!
 
 ❤️ Support the project by [sponsoring us](https://github.com/sponsors/Aryan-crypt) - every contribution helps keep JARVIS free and open source!
 
@@ -248,7 +242,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 Made with ❤️ by Aryan Sahani. 
 
-Like JARVIS? Give us a star 🌟 and join us in [Discord](https://discord.gg/NN3ABHggMK) | [X](https://x.com/aryan_sahani_)
+Like JARVIS? Give us a star 🌟
 
 ## ⚠️ DISCLAIMER ON DERIVATIVE PROJECTS
 
