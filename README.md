@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/ec60b0c4-87ba-48f4-981a-c55ed0e8497b" height="100" width="375" alt="banner" /><br>
 </h1>
 
 
@@ -16,8 +15,6 @@ JARVIS is an open-source AI web automation tool that runs in your browser. A fre
 ⬇️ Get JARVIS for free
 
 🌟 Loving JARVIS? Give us a star and help spread the word!
-
-❤️ Support the project by [sponsoring us](https://github.com/sponsors/Aryan-crypt) - every contribution helps keep JARVIS free and open source!
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JARVIS Demo GIF" />
@@ -60,20 +57,7 @@ Looking for a powerful AI browser agent without the $200/month price tag of Open
 
 ## 🚀 Quick Start
 
-1. **Install from Chrome Web Store** (Stable Version):
-   * Visit the Chrome Web Store page for JARVIS
-   * Click "Add to Chrome" button
-   * Confirm the installation when prompted
-
-> **Important Note**: For latest features, install from ["Manually Install Latest Version"](#-manually-install-latest-version) below, as Chrome Web Store version may be delayed due to review process.
-
-2. **Configure Agent Models**:
-   * Click the JARVIS icon in your toolbar to open the sidebar
-   * Click the `Settings` icon (top right)
-   * Add your LLM API keys
-   * Choose which model to use for different agents (Navigator, Planner)
-
-## 🔧 Manually Install Latest Version
+## 🔧 Install Latest Version
 
 To get the most recent version with all the latest features:
 
@@ -160,8 +144,6 @@ JARVIS allows you to configure different LLM models for each agent to balance pe
   - **Falcon3 10B**
   - **Qwen 2.5 Coder 14B**
   - **Mistral Small 24B**
-  - [Latest test results from community](https://gist.github.com/maximus2600/75d60bf3df62986e2254d5166e2524cb) 
-  - We welcome community experience sharing with other local models in our [Discord](https://discord.gg/NN3ABHggMK)
 
 - **Prompt Engineering**:
   - Local models require more specific and cleaner prompts
@@ -170,8 +152,6 @@ JARVIS allows you to configure different LLM models for each agent to balance pe
   - Provide explicit context and constraints
 
 > **Note**: The cost-effective configuration may produce less stable outputs and require more iterations for complex tasks.
-
-> **Tip**: Feel free to experiment with your own model configurations! Found a great combination? Share it with the community in our [Discord](https://discord.gg/NN3ABHggMK) to help others optimize their setup.
 
 ## 💡 See It In Action
 
@@ -184,29 +164,7 @@ Here are some powerful tasks you can accomplish with just a sentence:
    > "Look for the trending Python repositories on GitHub with most stars"
 
 3. **Shopping Research**:
-   > "Find a portable Bluetooth speaker on Amazon with a water-resistant design, under $50. It should have a minimum battery life of 10 hours"
-
-## 🛠️ Roadmap
-
-We're actively developing JARVIS with exciting features on the horizon, welcome to join us! 
-
-Check out our detailed roadmap and upcoming features in our [GitHub Discussions](https://github.com/Aryan-crypt/JARVIS-extension/discussions). 
-
-## 🤝 Contributing
-
-**We need your help to make JARVIS even better!**  Contributions of all kinds are welcome:
-
-*  **Share Prompts & Use Cases** 
-   * Join our [Discord server](https://discord.gg/NN3ABHggMK).
-   * share how you're using JARVIS.  Help us build a library of useful prompts and real-world use cases.
-*  **Provide Feedback** 
-   * Try JARVIS and give us feedback on its performance or suggest improvements in our [Discord server](https://discord.gg/NN3ABHggMK).
-* **Contribute Code**
-   * Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute code to the project.
-   * Submit pull requests for bug fixes, features, or documentation improvements.
-
-
-We believe in the power of open source and community collaboration.  Join us in building the future of web automation!
+   > "Find a portable Bluetooth speaker on Amazon with a water-resistant design, under $50. It should have a minimum battery life of 10 hours.
 
 
 ## 🔒 Security
@@ -216,14 +174,6 @@ If you discover a security vulnerability, please **DO NOT** disclose it publicly
 Instead, please create a [GitHub Security Advisory](https://github.com/Aryan-crypt/JARVIS-extension/security/advisories/new) to report the vulnerability responsibly. This allows us to address the issue before it's publicly disclosed.
 
 We appreciate your help in keeping JARVIS and its users safe!
-
-## 💬 Community
-
-Join our growing community of developers and users:
-
-- [Discord](https://discord.gg/NN3ABHggMK) - Chat with team and community
-- [Twitter](https://x.com/aryan_sahani_) - Follow for updates and announcements
-- [GitHub Discussions](https://github.com/Aryan-crypt/JARVIS-extension/discussions) - Share ideas and ask questions
 
 ## 👏 Acknowledgments
 
