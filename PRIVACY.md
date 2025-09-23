@@ -1,17 +1,17 @@
-# Privacy Policy for Nanobrowser
+# Privacy Policy for JARVIS
 
 ## Introduction
 
-[Nanobrowser](https://github.com/nanobrowser/nanobrowser) is an open-source AI web automation Chrome extension. This Privacy Policy explains how we handle your data and protect your privacy.
+[JARVIS](https://github.com/Aryan-crypt/JARVIS-extension) is an open-source AI web automation Chrome extension. This Privacy Policy explains how we handle your data and protect your privacy.
 
 ## Open Source
 
-Nanobrowser is licensed under Apache License 2.0. All source code is publicly available in our [GitHub repository](https://github.com/nanobrowser/nanobrowser), ensuring complete transparency.
+JARVIS is licensed under Apache License 2.0. All source code is publicly available in our [GitHub repository](https://github.com/Aryan-crypt/JARVIS-extension), ensuring complete transparency.
 
 ## Data Collection and Processing
 
 ### Local Processing
-- Nanobrowser operates entirely within your browser
+- JARVIS operates entirely within your browser
 - Login credentials and cookies never leave your browser
 - All user data is processed locally by default
 
